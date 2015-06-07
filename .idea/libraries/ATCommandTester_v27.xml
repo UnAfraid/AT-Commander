@@ -9,6 +9,10 @@
     <JAVADOC />
     <NATIVE>
       <root url="jar://$PROJECT_DIR$/libs/rxtx-comm-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/rxtx-comm-natives-linux-i686-32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/rxtx-comm-natives-linux-ia64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/rxtx-comm-natives-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/rxtx-comm-natives-macosx-universal.jar!/" />
     </NATIVE>
     <SOURCES />
   </library>

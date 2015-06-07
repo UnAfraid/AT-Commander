@@ -4,6 +4,11 @@
     <file url="file://$PROJECT_DIR$/libs/ATCommandTester_v27.jar" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/libs/RXTXcomm.jar" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/libs/WTK.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/rxtx-comm-natives-linux-i686-32.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/rxtx-comm-natives-linux-ia64.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/rxtx-comm-natives-linux-x86_64.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/rxtx-comm-natives-macosx-universal.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/libs/rxtx-comm-natives-macosx-universal_orig.jar" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/libs/rxtx-comm-natives-windows-i586.jar" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/libs/rxtx-comm.jar" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/github/unafraid/atcommander/Main.java" charset="UTF-8" />
