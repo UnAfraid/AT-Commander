@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="ATCommandTester_v27">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ATCommandTester_v27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/RXTXcomm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/rxtx-comm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/WTK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://$PROJECT_DIR$/libs/rxtx-comm-natives-windows-i586.jar!/" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
